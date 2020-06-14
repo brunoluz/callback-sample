@@ -5,5 +5,9 @@
     <RootNamespace>callback_sample</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.4.1" />
+  </ItemGroup>
+
 
 </Project>
